@@ -1,0 +1,45 @@
+
+	Data: Fact, Figures that have implicit
+	meaning and can be recorded.
+	
+	Information: Processed data is called
+				 information
+				 
+	Instruction: Commands given to computing
+				 devices to process data.
+	
+	Program:	Sequence of instructions to 
+				carry out a specific task.
+				
+	Program to wash clothes:
+	0.	Start
+	1. 	Take a bucket.
+	2.	Add some detergent in it.
+	3.	Fill the bucket with water.
+	4.	Shake the water until we have enough 
+		foam.
+	5.	Soak clothes for some time.
+	6.	Wash it.
+	7.	Rinse it.
+	8.	Dry the clothes on a washing line.
+	9.	Stop
+	
+	
+	Jargon
+	
+	VB.Net
+	
+	option explicit
+	
+	Etymology
+	
+	John Wilder Tuckey (1958) - Software
+					   (1947) -	Bit
+					   
+	1KB	=	1024 bytes
+	
+	1KG	= 1000 grams
+	
+	
+					   
+	

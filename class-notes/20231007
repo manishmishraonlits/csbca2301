@@ -1,0 +1,17 @@
+	Program: A sequence of instructions to carry out a specific task.
+
+
+	WAP to accept a two integer and find their sum.
+	WAP to accept marks scored by a student in any three subjects and find his total marks
+	obtained.
+	WAP to accept a number and find whether it is even or odd.
+	WAP to accept a year and find whether it is a leap year or not.
+	WAP to accept a number and find its factorial.
+	WAP to generate terms of fibonacci series upto n terms.
+	WAP to accept a number and find whether it is pallindrome or not.
+	WAP to accept a string and find whether it is a pallindrome or not.
+	
+	
+	A,B,C
+	
+	3!	=	3 * 2 * 1 = 6
