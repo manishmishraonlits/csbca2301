@@ -1,0 +1,18 @@
+Algorithm:
+1. Start
+2. Read bs
+3. da = bs*40/100
+4. hra = bs*20/100
+5. gs = bs + da + hra
+6. Print gs
+7. Stop
+
+Define the following terms:
+	1. Token
+	2. Keyword
+	3. Identifier
+	4. Variable
+	5. Constant
+	6. Data type
+	
+

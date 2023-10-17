@@ -1,0 +1,57 @@
+
+	GIGO: Garbage In Garbage Out
+	
+	Format String
+	
+	String is a group of characters.
+	
+	A, B,
+	1,2
+	%, ^, &
+	
+	%d	-	integer
+	%i	-	integer
+	%c
+	%s
+	%f
+	
+	Format strings act as a placeholder.
+	
+	\n	-	backslash character constant
+			escape sequence
+			
+	Indentation
+	
+	Characteristics of a good program:
+	1) Efficiency
+	2) Robust
+	3) Readable
+	4) Maintainable
+	5) Testable
+	
+	
+	{	-> Braces
+		//block
+	}
+	
+	()	-> Parenthesis
+	[]	-> Array
+	
+	
+	free-form
+	
+	Teachable
+	
+	Function is a self-contained block of code
+	to perform a defined task.
+	
+	Function is a command in excel that contain
+	a predefined formula.
+	
+	Simple	-	ends in one line
+	Compound -	spans over few/many lines
+	
+	garbage
+	
+	
+	

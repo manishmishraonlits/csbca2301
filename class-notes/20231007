@@ -1,7 +1,7 @@
 	Program: A sequence of instructions to carry out a specific task.
 
 
-	WAP to accept a two integer and find their sum.
+	WAP to accept two integers and find their sum.
 	WAP to accept marks scored by a student in any three subjects and find his total marks
 	obtained.
 	WAP to accept a number and find whether it is even or odd.
@@ -15,3 +15,55 @@
 	A,B,C
 	
 	3!	=	3 * 2 * 1 = 6
+	
+	Algorithm: To accept two integers and find their sum.
+	
+	1. Start
+	2. Ask the first integer
+	3. Accept and store it
+	4. Ask the second integer
+	Accept and store it
+	5. Find the sum and store it
+	6. Tell the sum
+	7. Stop
+	
+	1. Start
+	2. Read A, B.
+	3. C = A + B.
+	4. Print C
+	5. Stop
+	
+	
+	1. Analysis
+	2. Design
+	3. Code
+		a. Type/Compose
+		b. Translate (interpret/compile)
+	
+	
+	Dennis Ritchie
+	
+	Apple
+	
+	What is scanf()?
+	
+	scanf() is a pre-defined/built-in function that
+	performs console input.
+	
+	printf() is a pre-defined/build-in function that
+	performs console output.
+	
+	jargon
+	
+	console
+	
+	GUI: Graphical User Interface
+	CUI: Character User Interface
+	CLI: Command-line Interface
+	
+	Terminal Emulator
+		Command Prompt
+		Powershell
+		
+		
+	
