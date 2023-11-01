@@ -1,0 +1,45 @@
+
+	Decision Making Construct
+	
+	Problem
+	
+	a. Ice Cream
+	
+	b. Tea
+	
+	c. NOTA
+	
+	I will have a since I don't like tea.
+	
+	if (weather is warm) then a
+	else b
+	
+	
+	Science
+	Commerce
+	Arts
+	
+	
+	
+	GitHub Copilot
+	
+	Algorithm: Accept a number and find whether it is even or odd
+	
+	1. Start
+	2. Read n
+	3. If n % 2 = 0 then
+		Print "Even"
+	   Else
+	   	Print "Odd"
+	4. Stop
+	
+	
+	Flowchart: Diagramatic representation of algorithm.
+	
+	A picture speaks more that a thousand words.
+	
+	
+	
+	
+	
+	

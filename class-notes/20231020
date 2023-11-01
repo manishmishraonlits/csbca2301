@@ -1,0 +1,28 @@
+
+Algorithm: H(e)
+
+1. Start
+2. Read l, b, r
+3. ar = l * b
+4. p = 2 * (l + b)
+5. ac = 3.14 * r * r
+6. c = 2 * 3.14 * r
+7. Print ar, p, ac, c
+8. Stop 
+
+
+IntelliSense
+
+Library
+
+Declaration vs Definition
+
+DRY	-	Don't Repeat Yourself
+KISS - Keep It Simple Stupid
+YAGNI - You Aren't Gonna Need It
+
+Verbose
+
+Default
+
+

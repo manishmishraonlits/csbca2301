@@ -1,0 +1,84 @@
+Algorithm: for question H(c)
+
+1. Start
+2. Read eng, sci, sst, hin, math
+3. agg = eng + sci + sst + hin + math
+4. per = (agg/500) * 100
+5. Print agg, per
+6. Stop
+
+
+Test Case
+
+
+
+lowercase	-	small letter
+UPPERCASE	-	CAPITAL LETTER
+PascalCase	-
+camelCase	-
+snake_case
+kebab-case
+
+
+Context
+Convention
+
+Identifiers
+
+char name[50];
+String name;
+
+char first_name[20];
+String firstName;
+
+BufferedReader
+BufferedReader.java
+
+
+
+printf("");
+
+
+public static void main(string[] args) {
+	Scanner scanner = new Scanner(System.in)
+	a = scanner.nextInt();
+}
+
+
+void main()
+{
+
+}
+
+main()
+{
+
+}
+
+int main()
+{
+
+}
+
+int main(void)
+{
+
+}
+
+int main()
+
+BODMAS: Bracket Of Division Multiplication
+		Addition Subtraction
+		
+		{}
+		()
+		[]
+		<>
+		
+		%/-+*
+		&& || !
+		
+		
+		
+
+

@@ -1,0 +1,40 @@
+ How does OS understands a C programs?
+ 
+ Machine Language is a string of 0s and 1s.
+ 
+ AI - 
+ 
+ C programs are not portable.
+ 
+ Java programs are portable.
+ 
+ 1. Start
+ 2. Read C, D
+ 3. T = C
+ 4. C = D
+ 5. D = T
+ 6. Print C, D
+ 7. End
+ 
+ Assignment
+ 
+ 1. Start
+ 2. Read C, D		C = 10, D = 20
+ 3. C = C + D		C = 30, D = 20
+ 4. D = C - D		C = 30, D = 10
+ 5. C = C - D		C = 20, D = 10
+ 6. Print C, D
+ 7. End
+ 
+ Github Co-pilot
+ 
+ Multimedia
+ 
+ Troll
+ 
+ char	-	1 byte (8 bits)
+ int	-	2 bytes / 4 bytes
+ float	-	4 bytes
+ 
+ Decision Making (if-else)
+ 
