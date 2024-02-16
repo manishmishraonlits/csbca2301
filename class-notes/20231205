@@ -1,0 +1,18 @@
+
+	Pallindrome
+	
+	WAP to accept an integer and find whether
+	it is a pallindrome or not.
+	eg. 121
+	
+	WAP to accept a word and find whether
+	it is a pallindrome or not.
+	eg. malayalam, liril, mom
+	
+	WAP to accept a string and display its
+	reverse.
+	
+	int num;
+	char str[100];
+	
+	

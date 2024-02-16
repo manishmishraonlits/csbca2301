@@ -1,0 +1,34 @@
+	
+	Categories of function:
+	
+	1. void function(void)
+	
+	
+	void printf("Hello!")
+	{
+	
+	}
+	
+	
+	double sqrt(double n)
+	{
+	
+	}
+	
+	Editor
+	------------------------------------ .c
+	Pre-processor		(pre-processor directive)
+	Compiler
+	Linker
+	-------------------------------------.out/.exe
+	Loader
+	
+	Sir mujhe parseInt() function in js me kuch
+	doubt hai.
+	
+	Resolve a sentence into its components parts.
+	
+	Syntax rules
+	
+	passing array in function.
+	

@@ -1,0 +1,37 @@
+
+	Problem Solving
+		-
+		
+	Scope, visibility and lifetime of a variable:
+		- auto
+		- extern
+		- static
+		- register
+		
+		
+	{	-> Block
+	
+	}
+	
+	Traditional C did not have support for block level variables.
+	
+	All C programs are C++ programs but the reverse is not true.
+	
+	Data Types:
+		- Primitive/Built-in/Fundamental (int, float, char)
+		- Derived (array, pointer, function)
+		- User-defined (struct, union, enum)
+		
+		student s;
+		
+		
+	R#	Name			2	3	4	5	6	7	8
+	1	Ayush Kumar		P	A	P	P	P	P	P
+	2	Ayushi Kumari	P	P	P	P	A	P	P
+	
+	
+	public static void main(String[] args) {
+	
+	}
+	
+	

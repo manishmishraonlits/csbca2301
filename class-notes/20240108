@@ -1,0 +1,31 @@
+
+	WAP to accept a date and display it.
+	
+	Date is not simple but it is complex/compound/
+	composite)
+	
+	Is there a built-in datatype for date. - No
+	
+	YAGNI - You aren't gonna need it.
+	
+	GIGO: Garbage In Garbage Out
+	
+	WAP to read system time and greet user good morning,
+	good afternoon or good evening based on the current
+	time.
+	
+	%wd
+	
+	student
+		id - int
+		name - char[]
+		dob - date (udt) (int,int,int)
+	staff
+	exam
+	
+	
+	exam halfyearly;
+	
+	structure
+	union
+	enum

@@ -1,0 +1,27 @@
+ 
+ 1. Call by value
+ 2. Call by reference (address)
+ 
+ Write a function to accept two integer and swap them. 
+ 
+ int swap (int a, int b) 
+ 
+ Scope, visibility, lifetime of a variable
+ 
+ Return multiple values
+ 
+ 
+ scanf("%s", name);
+ 
+ string
+ 
+ Abstraction
+ 
+ How many bytes a pointer takes in memory?
+ 
+ 2
+ 4
+ 8
+ NOTA
+ 
+ 

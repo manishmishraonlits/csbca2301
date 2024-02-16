@@ -1,0 +1,25 @@
+
+1. WAP to accept 10 integers in an array and print
+   them.
+   
+2. WAP to accept 10 integers in an array and display
+   their sum.
+   
+3. WAP to accept 10 integers in an array and display
+   their average.
+ 
+4. WAP to accept 10 integers in an array and display
+   the greatest integer.
+ 
+ Sorting algorithms
+ 1. Selection sort		F(n^2)	-	Horrible
+ 2. Bubble sort
+ 3. Insertion sort
+ 4.	Merge sort			F(n log n) - Bad
+ 
+ 
+ Searching algorithms
+ 1. Linear Search		-	O(n)	-	Fair
+ 2. Binary Search		-	O(log n)-	Good
+ 
+ Character Arrays

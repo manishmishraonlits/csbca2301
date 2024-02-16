@@ -1,0 +1,17 @@
+1. WAP to accept marks scored by a student
+	in a test and find whether he has passed
+	or failed if the pass marks is 40.
+	
+2. WAP to accept marks scored by a student
+	in a test and find his grade on the basis
+	of the following:
+		A - 80 and above
+		B - 60 and above
+		C - 40 and above
+		F - below 40
+		
+3. WAP to accept a number and display 
+	day name corresponding to the number.
+	
+	else-if ladder
+

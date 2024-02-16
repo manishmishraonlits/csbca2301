@@ -1,0 +1,18 @@
+
+	Dynamic Memory Allocation
+	
+	Student *students = new Student(); 	// C++
+	
+	Student student = new Student();	// Java
+	
+	Characteristics of a good program:
+		1. Accuracy
+		2. Efficient
+		3. Robust
+		4. Readable
+		5. Maintainable
+		6. Testable
+		
+	Linked List
+	
+	

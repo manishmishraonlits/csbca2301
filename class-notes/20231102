@@ -1,0 +1,22 @@
+	Compound Statement
+	Simple Statement
+	
+	Unary	-	one operand (++, --, -)
+	Binary	-	two operands (+, -, /, *, %, <, >)
+	Ternary	-	three operands (?:) - Conditional
+	
+	
+	Labelled loops
+	
+	let a = 10		-	Assignment
+	
+	if a = 10		-	Comparison
+	
+	
+	=			-	assignment operator
+	==			-	comparison (Relational)
+	
+	
+	a = 10;
+	
+	if(n == 2)

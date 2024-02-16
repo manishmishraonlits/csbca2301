@@ -1,0 +1,47 @@
+
+ String: String is sequence of characters
+ 
+ 
+ Number (Integer or real (float))
+ 
+ Raju Kumar	=	10
+ ABCDE1234E	=	10
+ 04-12-2023 =	10
+ 
+ WAP accept roll no, name, dob and gender
+ of a student and display it.
+ 
+ WAP accept roll no, name, dob and gender
+ of 10 students and display them.
+ 
+ WAP to accept elements in i x j matrix
+ and print them in matrix form.
+ 
+ WAP to accept integers in two i x j matrices
+ and display their sum.
+ 
+ Admission Management System
+ 
+ 1. WAP to accept a string and display.
+ 2. WAP to accept the user's full name 
+    and greet him 'Good morning'.
+ 3. WAP to accept a string and display its
+    length.
+ 4. WAP to accept a sentence and display its
+    length.
+    
+ String are represented/stored as character
+ array.
+ 
+ In c++, Java, python, PHP string are stored
+ as objects.
+ 
+ *, &
+ 
+ int *p = &a;
+ 
+ 
+  
+ 
+ 
+ 

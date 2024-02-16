@@ -1,0 +1,39 @@
+
+	Do not confuse Data Flow Diagram with flowchart.
+		But I am safe
+		
+	Rotations Per Minute
+	
+	5400, 7200 rmp
+	
+	MHz
+	GHz
+	
+	Recursion: When a function calls itself
+	Divide and conquer
+	Dynamic Programming
+	
+	
+	Factorial using recursion
+	
+	Modularisation
+	
+	
+	5! = 5 x 4!
+	4! = 4 x 3!
+	3! = 3 x 2!
+	2! = 1 x 0!
+	
+	5! = 5 x 4 x 3 x 2 x 1
+	
+	Algorithmic Thinking
+	
+	Recursive Call
+	Base Case/Condition
+	
+	O(1)
+	O(log n)
+	O(n)
+	
+	Geetanjali Rao
+	

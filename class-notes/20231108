@@ -1,0 +1,50 @@
+
+	Set
+	Subset
+	
+	SP is a subset of POP.
+	
+	C++ is superset of C.
+	
+	OOP
+	
+	Structure
+		Branching (if, if-else, else-if ladder
+				   switch-case)
+		Iteration (While, Do-while, For)
+		
+		
+	printf("This sum is %d", s);
+	
+	for(i=0, j=0)
+	while(i=0, j=0)
+	
+	
+	Resusable block of code
+	
+	Reduce
+	Reuse
+	Recyle
+	
+	if()
+	{
+		// block of code
+	}
+	
+	int main(void)
+	{
+	
+	}
+	
+	
+	printf() is a reusable block of code.
+	
+	printf()
+	{
+	
+	}
+	
+	
+	Function, Procedure, 
+	Sub-Procedure, Routine
+	Sub-Routine

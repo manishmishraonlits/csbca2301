@@ -1,0 +1,26 @@
+
+	Architecture
+		-64
+		-32
+		
+		
+		x64	-	64-bit
+		x86	-	32-bit
+		
+		4004, 8008, 8088, 8086
+		286, 386, 486, (586) Pentium
+		
+	Operating System Architecture
+	
+	Stack
+	Heap
+	
+	C ke function me multiple values kaise return
+	karene. (pointer)
+	
+	Spend 10000 hours
+	
+	1 pass
+	2 pass
+	
+	
